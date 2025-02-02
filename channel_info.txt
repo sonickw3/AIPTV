@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-iQIYI | Chinese | https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png | iQIYI
+104 | 🇲🇾 Malaysia(ASTRO) | http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png | 104.astro
 
