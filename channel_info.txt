@@ -1,5 +1,3 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-TVB Classic HD | AstroIPTV | https://static.wixstatic.com/media/e8ccf3_ad2ded0318f74f76a0834387684811b8~mv2.png/v1/fill/w_560,h_240,al_c,lg_1,q_85,enc_auto/logo_astroiptv-1.png | ch1 305.astro
-
