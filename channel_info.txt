@@ -1,12 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
-
-
-
-SleepyCat - Cat's favorite music Golgolsong 😽| Music | https://iili.io/dF45ojj.jpg |
-https://www.youtube.com/live/DSqqIbsDmQY
-
-
+~~ Channel 1 | Movies | https://example.com/Channel1.jpg | ch1 https://www.youtube.com/@Channel1/live
+Channel 1 | TVB Classic HD | https://www.dropbox.com/scl/fi/ze5xz1wolc58mliy6wqjd/Tvb.png?rlkey=cpydssdj6zn60hxl4ajstfvnr&dl=1 | ch1 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd/@Channel1/live
 
